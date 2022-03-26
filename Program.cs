@@ -10,9 +10,9 @@
  */
 
 
-/*
- * 1.  ----------- EVENT HANDLING BASIC EXAMPLE
- * 
+
+// * 1.  ----------- EVENT HANDLING BASIC EXAMPLE
+  
 using System;
 namespace Program
 {
@@ -45,4 +45,3 @@ namespace Program
         }
     }
 }
-*/
